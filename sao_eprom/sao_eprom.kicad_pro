@@ -324,6 +324,10 @@
     [
       "d47ec314-a743-442f-8818-27cc1408d32f",
       "EPROM interface"
+    ],
+    [
+      "04a0465a-e9b3-4bee-95e7-0c6308f8d13f",
+      "Power generation"
     ]
   ],
   "text_variables": {}
