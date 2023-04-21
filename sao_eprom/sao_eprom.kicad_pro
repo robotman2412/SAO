@@ -320,6 +320,10 @@
     [
       "23bd85f3-7065-4154-b889-dcac0f9110ff",
       ""
+    ],
+    [
+      "d47ec314-a743-442f-8818-27cc1408d32f",
+      "EPROM interface"
     ]
   ],
   "text_variables": {}
