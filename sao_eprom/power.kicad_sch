@@ -758,7 +758,7 @@
     (uuid fe4a5054-63a0-4722-bc04-e3c24d9b9dae)
   )
 
-  (text "Target voltage	= 12.5V\nVout			= 1.25*(1+R4/R5)\nR4/R5			= 9"
+  (text "Target voltage	= 12.75V\nVout			= 1.25*(1+R4/R5)\nR4/R5			= 9.2"
     (at 22.86 54.61 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2070ad42-7b47-47ff-9192-70e056ffe320)
