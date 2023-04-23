@@ -2,3 +2,6 @@ sao_eprom/sao_eprom-backups
 sao_eprom/*.kicad_prl
 sao_eprom/#auto_saved_files#
 sao_eprom/fp-info-cache
+sao_eprom/_autosave-sao_eprom.kicad_sch
+sao_eprom/fp-lib-table
+sao_eprom/sym-lib-table
