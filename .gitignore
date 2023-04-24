@@ -5,3 +5,4 @@ sao_eprom/fp-info-cache
 sao_eprom/_autosave-sao_eprom.kicad_sch
 sao_eprom/fp-lib-table
 sao_eprom/sym-lib-table
+__pycache__
