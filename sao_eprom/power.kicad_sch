@@ -762,12 +762,12 @@
     (uuid fe4a5054-63a0-4722-bc04-e3c24d9b9dae)
   )
 
-  (text "Target voltage	= 12.75V\nVout			= 1.25*(1+R4/R5)\nR4/R5			= 9.2\nRR, R5			= 2200, 250\nReal voltage	= 12.25 (not good enough)"
+  (text "Target voltage	= 12.75V\nVout			= 1.25*(1+R4/R5)\nR4/R5			= 9.2\nRR, R5			= 2200, 240\nReal voltage	= 12.71"
     (at 26.67 54.61 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2070ad42-7b47-47ff-9192-70e056ffe320)
   )
-  (text "Target voltage	= 6.25V\nVout			= 1.25*(1+R4/R5)\nR6/R7			= 4\nR6, R7			= 1000/250\nReal voltage	= 6.25"
+  (text "Target voltage	= 6.25V\nVout			= 1.25*(1+R4/R5)\nR6/R7			= 4\nR6, R7			= 1000, 250\nReal voltage	= 6.25"
     (at 86.36 54.61 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a5491bb7-655f-4277-897e-ab34d0547bac)
@@ -1014,7 +1014,7 @@
     (property "Reference" "R5" (id 0) (at 67.31 86.3599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (id 1) (at 67.31 88.8999 0)
+    (property "Value" "240R" (id 1) (at 67.31 88.8999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 62.992 87.63 90)
@@ -1254,7 +1254,7 @@
     (property "Reference" "R4" (id 0) (at 67.31 73.6599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (id 1) (at 67.31 76.1999 0)
+    (property "Value" "2.2K" (id 1) (at 67.31 76.1999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 62.992 74.93 90)

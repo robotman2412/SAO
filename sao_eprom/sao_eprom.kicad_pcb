@@ -832,7 +832,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 373a37bf-e3de-4385-a896-a13320b17169)
     )
-    (fp_text value "R" (at 3.81 0 90) (layer "F.SilkS")
+    (fp_text value "240R" (at 3.81 0 90) (layer "F.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.15)))
       (tstamp 7ea5102b-3cdd-4540-9fce-46472bcedef8)
     )
@@ -2739,7 +2739,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 462e7e38-4516-4ea9-9e9a-0ea4f7cb49e3)
     )
-    (fp_text value "R" (at 3.81 0 90) (layer "F.SilkS")
+    (fp_text value "2.2K" (at 3.81 0 90) (layer "F.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.15)))
       (tstamp edd96010-3e67-4e0d-b702-e810d487af5d)
     )
@@ -8801,7 +8801,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 71b0e603-e2f6-465c-bcee-cdf1486d7b3e) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
