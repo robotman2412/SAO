@@ -1215,7 +1215,7 @@
   (symbol (lib_id "Diode:1N4007") (at 87.63 127 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 388f8dbd-7d2e-4d98-83c7-29a7437a7463)
-    (property "Reference" "D2" (at 87.63 120.65 0)
+    (property "Reference" "D1" (at 87.63 120.65 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4007" (at 87.63 123.19 0)
@@ -1238,7 +1238,7 @@
     (instances
       (project "sao_eprom_v2"
         (path "/07beccdd-32b3-4f03-aa51-fb5544b6f2d4/1053addf-4f12-44cd-9743-7d35ca2d08ac"
-          (reference "D2") (unit 1)
+          (reference "D1") (unit 1)
         )
       )
     )
@@ -1303,7 +1303,7 @@
   (symbol (lib_id "Diode:1N4007") (at 87.63 116.84 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 613ddf08-4e3b-4689-be2a-7488ca8070fa)
-    (property "Reference" "D1" (at 87.63 110.49 0)
+    (property "Reference" "D2" (at 87.63 110.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4007" (at 87.63 113.03 0)
@@ -1326,7 +1326,7 @@
     (instances
       (project "sao_eprom_v2"
         (path "/07beccdd-32b3-4f03-aa51-fb5544b6f2d4/1053addf-4f12-44cd-9743-7d35ca2d08ac"
-          (reference "D1") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
