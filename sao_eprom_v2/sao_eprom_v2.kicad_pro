@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.65,
+          "height": 0.65,
+          "width": 0.65
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,7 +55,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "duplicate_footprints|187000000|77750000|1784434d-a124-4836-887f-ab7367b0f049|7498837a-0ada-47bf-ab27-7661a263a38d",
+        "extra_footprint|157200000|57800000|7498837a-0ada-47bf-ab27-7661a263a38d|00000000-0000-0000-0000-000000000000",
+        "extra_footprint|187000000|77750000|1784434d-a124-4836-887f-ab7367b0f049|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -562,6 +566,10 @@
     [
       "e608ecd4-0557-4bb4-9ac0-2ae7e9dd9344",
       "Power generation"
+    ],
+    [
+      "10cc4027-b054-4c8a-93d7-7f2979e3aa65",
+      "Blinkenlights"
     ]
   ],
   "text_variables": {}
