@@ -16835,7 +16835,7 @@
   (gr_text "IO1" (at 135.05 37.75) (layer "F.SilkS") (tstamp 25a7c751-72a7-450d-9e13-b54bd58f18dc)
     (effects (font (size 0.66 0.66) (thickness 0.1)) (justify bottom))
   )
-  (gr_text "EPROM reader/writer V2\n27C512, 27C256, 27C128, 27C64\n7 June 2023" (at 189.25 75.5 90) (layer "F.SilkS") (tstamp 32959e05-c3ff-4f8c-b0c2-cb32549ea2f7)
+  (gr_text "EPROM reader/writer V2\n27C512, 27C256, 27C128, 27C64\n8 June 2023" (at 189.25 75.5 90) (layer "F.SilkS") (tstamp 32959e05-c3ff-4f8c-b0c2-cb32549ea2f7)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "power switch" (at 139 45 90) (layer "F.SilkS") (tstamp 36964a10-ca3c-4c1b-a085-5d9c88a9ace4)
