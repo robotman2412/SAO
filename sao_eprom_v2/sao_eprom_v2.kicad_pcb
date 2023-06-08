@@ -16703,7 +16703,7 @@
   (gr_text "4" (at 153 61.75) (layer "B.SilkS") (tstamp 252f04dc-5dd6-4a85-9696-6de00d0cf71d)
     (effects (font (size 0.5 0.5) (thickness 0.1) bold) (justify mirror))
   )
-  (gr_text "3v3" (at 156.25 36.75) (layer "B.SilkS") (tstamp 26e49720-9d40-42b8-8097-9f96ed6a0641)
+  (gr_text "3V3" (at 156.25 36.75) (layer "B.SilkS") (tstamp 26e49720-9d40-42b8-8097-9f96ed6a0641)
     (effects (font (size 0.5 0.5) (thickness 0.1) bold) (justify mirror))
   )
   (gr_text "SCL" (at 132.5 42.75) (layer "B.SilkS") (tstamp 2b7defb5-a151-44d9-aa6f-a57c8e9b4657)
