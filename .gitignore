@@ -2,7 +2,8 @@
 */*.kicad_prl
 */#auto_saved_files#
 */fp-info-cache
-*/_autosave-*.kicad_sch
+*/_autosave-*
 */fp-lib-table
 */sym-lib-table
+*/__pycache__
 __pycache__
