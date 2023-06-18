@@ -3800,7 +3800,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 194.31 42.545 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fb3b6da1-576a-4d66-af70-9ad2c23101ce)
-    (property "Reference" "TP34" (at 199.39 42.545 90)
+    (property "Reference" "TP28" (at 199.39 42.545 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 199.39 43.815 90)
@@ -3816,7 +3816,7 @@
     (instances
       (project "sao_eprom_v2"
         (path "/07beccdd-32b3-4f03-aa51-fb5544b6f2d4/e608ecd4-0557-4bb4-9ac0-2ae7e9dd9344"
-          (reference "TP34") (unit 1)
+          (reference "TP28") (unit 1)
         )
       )
     )
