@@ -2353,7 +2353,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 27.94 29.21 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 07813c9c-8402-4205-8425-1a1594ee3ec3)
     (property "Reference" "H2" (at 31.75 27.94 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2506,7 +2506,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 27.94 34.29 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1023b958-68cc-416e-abfa-c60e1e1991f6)
     (property "Reference" "H3" (at 31.75 33.02 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3031,14 +3031,14 @@
     (property "Datasheet" "http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf" (at 48.26 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 890a970b-593f-4960-9ef4-69154aaf6ffb))
-    (pin "2" (uuid d85807ea-6119-41fb-aaf9-eb586402a5d4))
-    (pin "3" (uuid 99599830-aa27-4521-b1ec-3a56473d0871))
-    (pin "4" (uuid 1ac30e68-8c29-4f66-aa56-cd53a30d20f6))
-    (pin "5" (uuid aa98f9f5-323f-4210-8c62-08e08fe0f973))
-    (pin "6" (uuid c7ee2a0e-fed0-4fd6-859a-65899e56af2c))
-    (pin "7" (uuid 86bcee8a-114e-4cbe-ba15-b57bdfa5f87b))
-    (pin "8" (uuid 3123df6c-de81-49fe-9c49-321089bc4137))
+    (pin "1" (uuid 1331c629-b3e3-4cf3-8cca-ffd65744c11e))
+    (pin "2" (uuid 1ef797db-ce3d-4421-a6f8-15fa36cf1909))
+    (pin "3" (uuid 3a222df8-8661-4c8a-9a47-27de0d6b3ada))
+    (pin "4" (uuid 5b40eb02-cc7f-4cca-b550-4bc3baf6ecf9))
+    (pin "5" (uuid c0ffa5ff-4afa-4143-a5e4-e7dd220649b8))
+    (pin "6" (uuid ea03dab7-fada-4951-9a31-5e35b966cf02))
+    (pin "7" (uuid c8b115e8-6b9a-47f8-94cd-889aed2b4718))
+    (pin "8" (uuid 60048ec9-9617-4ffa-97e3-6a62465fbbd1))
     (instances
       (project "sao_eprom_v2"
         (path "/07beccdd-32b3-4f03-aa51-fb5544b6f2d4"
@@ -3321,7 +3321,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 27.94 39.37 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 60a23c63-0885-4a2c-8ba4-1d806a0573e3)
     (property "Reference" "H4" (at 31.75 38.1 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3396,7 +3396,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 27.94 24.13 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 732514ef-316e-4880-a6b1-1d3a21c6396c)
     (property "Reference" "H1" (at 31.75 22.86 90)
       (effects (font (size 1.27 1.27)) (justify left))
