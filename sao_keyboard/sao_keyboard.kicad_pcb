@@ -82,9 +82,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "fab/")
     )
   )
 
@@ -22104,8 +22104,7 @@
     (polygon
       (pts
         (xy 91.5 66)
-        (xy 185.75 66)
-        (xy 189 69.25)
+        (xy 189 66)
         (xy 189 102.5)
         (xy 91.5 102.5)
       )
